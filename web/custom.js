@@ -1,0 +1,3 @@
+$(function () {
+   $('.tabblesorter').tablesorter();
+});
